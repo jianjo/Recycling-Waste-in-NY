@@ -1,4 +1,4 @@
-# Recycling-Waste-in-NY
+# Recycling-in-NY
 ## Project Goal & Task
 
 The main goal was to analyze patterns in recycling activities across New York, diving into both regional and statewide data. Using Python libraries, I discovered some interesting insights about recycling compared to waste generation, and I created interactive data visualizations to share those findings in a way that's easy to understand. In the end, I had the chance to present everything to the  members of Codable, showing them how to explore the interactive website and gain similar insights from EDA. 
